@@ -7,6 +7,7 @@ equipped with WINC or NINA Wi-Fi module.
 [![Codecov](https://codecov.io/gh/arduino/arduino-fwuploader/branch/main/graph/badge.svg)](https://codecov.io/gh/arduino/arduino-fwuploader)
 [![Test Integration status](https://github.com/arduino/arduino-fwuploader/actions/workflows/test-go-integration-task.yml/badge.svg)](https://github.com/arduino/arduino-fwuploader/actions/workflows/test-go-integration-task.yml)
 [![Deploy Website status](https://github.com/arduino/arduino-fwuploader/actions/workflows/deploy-cobra-mkdocs-versioned-poetry.yml/badge.svg)](https://github.com/arduino/arduino-fwuploader/actions/workflows/deploy-cobra-mkdocs-versioned-poetry.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fper1234%2Farduino-fwuploader.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fper1234%2Farduino-fwuploader?ref=badge_shield)
 
 ## ❗❗❗Notice regarding versions before 2.0.0 ❗❗❗
 
@@ -37,3 +38,7 @@ e-mail contact: security@arduino.cc
 [commands reference]: https://arduino.github.io/arduino-fwuploader/latest/commands/arduino-fwuploader/
 [issue]: https://github.com/arduino/arduino-fwuploader/issues/93
 [latest]: https://github.com/arduino/arduino-fwuploader/releases
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fper1234%2Farduino-fwuploader.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fper1234%2Farduino-fwuploader?ref=badge_large)
